@@ -5,10 +5,10 @@
 # Dashtoon Assignment
 
 - Link: https://dashtoon-assignment-amresh.vercel.app/
-- Name: Amresh Prasad Sinha
-- Email: s.amresh@iitg.ac.in
-- Roll No.: 200122009
-- College: IIT Guwahati
+- Name: Gaurav Chaudhary
+- Email: gaurav02dec2k@gmail.com
+- Roll No.: 20035019
+- College: IIT BHU Varanasi
 
 ## Table of Content
 
