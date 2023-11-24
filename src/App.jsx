@@ -60,8 +60,8 @@ export default function HeroLeft01() {
         Made with &#x1F495; by{" "}
         <a style={{
           color: "inherit",
-        }} href="https://amreshsinha.vercel.app/" target="_blank" rel="noreferrer">
-          Amresh
+        }}  target="_blank" rel="noreferrer">
+          Gaurav
         </a>
       </Typography>
     </Box>
